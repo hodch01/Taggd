@@ -19,6 +19,7 @@ To configure and use the Taggd widget, it must be placed inside a data view, as 
 There are two key configurables:
 
 Image to be taggd - Select a static image from your project to manipluate (Dynamic images will be avaliable in future releases)
+
 Store attribute - Select an attribute where the string representation of your taggd notes will be stored, (Needs to be unlimited) 
 
 Taggd notes are stored in a string format and are parsed inside the widget to the image represenation your see on the screen. 
